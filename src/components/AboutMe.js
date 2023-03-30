@@ -74,14 +74,15 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
                   <p>{location}</p>
                 </div>
                 <div className="col-12 col-md-6 info">
-                  <span>Availability:</span>
+                  <span>Languages:</span>
                   <p>{availability}</p>
+                  
                 </div>
               </div>
             </div>
             <div className="buttonContainer">
               <button className="btn downloadCV" onClick={handleDownload} disabled={downloading}>
-                {downloading ? "Downloading..." : "Download Resume"}
+                {downloading ? "Downloading..." : "Download My Resume"}
               </button>{" "}
               <SocialIcons />
             </div>

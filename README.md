@@ -18,21 +18,13 @@ Alessandro Mordini 2023
 
 ![Contact Tab]()
 
-### Description
+### Contributing
 
-This is my portfolio website built with React.
+Any and all contributions, issues, features and tips are welcome.
 
 ### Contact
 
-For any Suggestion / Ideas find me at: alessandro.mordini@com
-
-### Sources
-
-## -
-
-## -
-
--
+For any Suggestion / Ideas find me at: [alessandro.mordini@gmail.com]
 
 ## Learn More
 

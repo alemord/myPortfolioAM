@@ -1,4 +1,4 @@
-/* --- MOBILE STYLES --- */
+/* mobile */
 
 .landing .name {
   font-size: 48px;
@@ -22,7 +22,6 @@
   bottom: 20px;
 }
 
-/* --- MEDIA QUERIES --- */
 
 @media (min-width: 750px) {
   .landing .name {

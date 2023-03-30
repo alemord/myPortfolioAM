@@ -6,7 +6,7 @@
     "technologies": "JavaScript | React | Bootstrap",
     "github": "https://github.com/alemord/movie_database_app",
  
-    "bgcolor": "#f37737",
+    "bgcolor": "#524A48",
     "id": "1"
   },
   {
@@ -15,16 +15,16 @@
     "technologies": "jQuery | HTML | CSS",
     "description": " This project.",
     "github": "https://github.com/alemord?tab=repositories",
-    "bgcolor": "#29cbe0",
+    "bgcolor": "#C5BAB8",
     "id": "2"
   },
   {
     "title": "Crypto App",
     "image": "./projectImages/team.png",
     "technologies": "JS | Bootstrap",
-    "description": "Team .",
+    "description": "Other Project",
     "github": "https://github.com/alemord?tab=repositories",
-    "bgcolor": "#6c4bf4",
+    "bgcolor": "#B80EE7",
     "id": "3"
   },
   {
@@ -45,7 +45,7 @@
     "technologies": "React | CSS | Bootstrap ",
     "github": "https://github.com/alemord/kanye-app",
     "deployed": "https://alemord.github.io/kanye-app/",
-    "bgcolor": "#ffcc33",
+    "bgcolor": "#07683F",
     "id": "1"
   },
 
@@ -55,7 +55,7 @@
     "technologies": "JS | React",
     "description": "To Do App",
     "github": "https://github.com/alemord/to_do_CRUD",
-    "bgcolor": "#3e67ff",
+    "bgcolor": "#4CBD8D",
     "id": "6"
   }
 ]
