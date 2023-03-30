@@ -31,7 +31,7 @@ function App() {
   const personalDetails = {
     name: "Ciao, I'm Alessandro Mordini.",
     location: "New York & Milan (IT)",
-    tagline: `I'm a Software Engineer`,
+    tagline: `I'm a Software Engineer.`,
     email: "alessandro.mordini@gmail.com",
     availability: "English, Italian, Spanish",
     brand:

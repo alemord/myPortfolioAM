@@ -1,12 +1,32 @@
 /* mobile */
 
 .landing .name {
-  font-size: 48px;
-}
-.landing .description {
-  font-size: 26px;
+  font-size: 78px;
+  overflow: hidden; 
+  white-space: nowrap; 
+  border-right: 2px solid #fff; 
+  letter-spacing: 8px; 
+  animation: typing 3s steps(20) , blink-caret 0.5s step-end infinite;
 }
 
+.landing .description {
+  font-size: 66px;
+  overflow: hidden; 
+  white-space: nowrap; 
+  border-right: 2px solid #fff; 
+  letter-spacing: 8px; 
+  animation: typing 6s steps(20) infinite, blink-caret 0.5s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #fff }
+}
 .landingImage {
   right: 0px;
 }
@@ -24,12 +44,10 @@
 
 
 @media (min-width: 750px) {
-  .landing .name {
-    font-size: 70px;
-  }
-
+  .landing .name,
   .landing .description {
-    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
   }
 
   .landingImage {

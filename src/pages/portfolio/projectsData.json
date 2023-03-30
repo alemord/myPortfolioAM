@@ -1,41 +1,22 @@
-[
+[  {
+  "title": "TETRIS",
+  "image": "./projectImages/quiz.png",
+  "technologies": "JS | HTML | CSS",
+  "description": "A Tetris game in vanilla JavaScript.",
+  "github": "https://github.com/alemord/tetris_23",
+  "deployed": "https://alemord.github.io/tetris_23/",
+  "bgcolor": "#f85781",
+  "id": "4"
+},
   {
-    "title": "Movie App",
+    "title": "IMDb Movie App",
     "image": "./projectImages/bike.png",
-    "description": "I created a Movie App.",
+    "description": "I created a Movie App which uses IMDb's API.",
     "technologies": "JavaScript | React | Bootstrap",
     "github": "https://github.com/alemord/movie_database_app",
  
     "bgcolor": "#524A48",
     "id": "1"
-  },
-  {
-    "title": "Stocks App",
-    "image": "./projectImages/weather.png",
-    "technologies": "jQuery | HTML | CSS",
-    "description": " This project.",
-    "github": "https://github.com/alemord?tab=repositories",
-    "bgcolor": "#C5BAB8",
-    "id": "2"
-  },
-  {
-    "title": "Crypto App",
-    "image": "./projectImages/team.png",
-    "technologies": "JS | Bootstrap",
-    "description": "Other Project",
-    "github": "https://github.com/alemord?tab=repositories",
-    "bgcolor": "#B80EE7",
-    "id": "3"
-  },
-  {
-    "title": "TETRIS",
-    "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
-    "description": "A Tetris game in vanilla JavaScript.",
-    "github": "https://github.com/alemord/tetris_23",
-    "deployed": "https://alemord.github.io/tetris_23/",
-    "bgcolor": "#f85781",
-    "id": "4"
   },
 
   {
@@ -44,16 +25,38 @@
     "description": "Welcome to an infinite source of knowledge",
     "technologies": "React | CSS | Bootstrap ",
     "github": "https://github.com/alemord/kanye-app",
-    "deployed": "https://alemord.github.io/kanye-app/",
+    "deployed": "https://kanyeoncereallysaid.netlify.app/",
     "bgcolor": "#07683F",
     "id": "1"
   },
 
   {
+    "title": "Stocks App",
+    "image": "./projectImages/weather.png",
+    "technologies": "JS | HTML | CSS",
+    "description": " This project.",
+    "github": "https://github.com/alemord?tab=repositories",
+    "deployed": "https://codesandbox.io/s/istocks-myapp-jpxg55?file=/src/styles.css",
+    "bgcolor": "#C5BAB8",
+    "id": "2"
+  },
+  {
+    "title": "Cryptos Monitoring App",
+    "image": "./projectImages/team.png",
+    "technologies": "JS | Bootstrap",
+    "description": "An intuitive cryptos monitoring App",
+    "github": "https://github.com/alemord?tab=repositories",
+    "bgcolor": "#B80EE7",
+    "id": "3"
+  },
+ 
+
+
+  {
     "title": "Planner To Do",
     "image": "./projectImages/planner.png",
     "technologies": "JS | React",
-    "description": "To Do App",
+    "description": "To Do App CRUD",
     "github": "https://github.com/alemord/to_do_CRUD",
     "bgcolor": "#4CBD8D",
     "id": "6"
