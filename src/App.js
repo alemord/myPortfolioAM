@@ -10,7 +10,7 @@ function Footer(props) {
   <p
     onMouseEnter={() => setIsHovered(true)}
     onMouseLeave={() => setIsHovered(false)}
-    style={{ fontSize: "22px", color: isHovered ? "purple" : "white" }}
+    style={{ fontSize: "17px", color: isHovered ? "purple" : "white" }}
   >
     <strong>
       <span style={{ color: "purple" }}>Maybe you didn't know that:</span>{" "}

@@ -1,39 +1,41 @@
-/* mobile */
-
 .landing .name {
-  font-size: 78px;
-  overflow: hidden; 
-  white-space: nowrap; 
-  border-right: 2px solid #fff; 
-  letter-spacing: 8px; 
+  font-size: 32px;
+  line-height: 42px;
+  overflow: hidden;
+  white-space: wrap;
+  border-right: 2px solid #fff;
+  letter-spacing: 2px;
   animation: typing 3s steps(20) , blink-caret 0.5s step-end infinite;
-}
-
-.landing .description {
-  font-size: 66px;
-  overflow: hidden; 
-  white-space: nowrap; 
-  border-right: 2px solid #fff; 
-  letter-spacing: 8px; 
-  animation: typing 6s steps(20) infinite, blink-caret 0.5s step-end infinite;
-}
-
-@media (min-width: 750px) {
-  .landing .name  {
-    font-size: 76px;
-    font-family: Arial, sans-serif;
-    letter-spacing: 1px;
   }
-  .landing .description  {
-    font-size: 66px;
-    font-family: Arial, sans-serif;
-    letter-spacing: 1px;
+  
+  .landing .description {
+  font-size: 28px;
+  line-height: 38px;
+  overflow: hidden;
+  white-space: normal;
+  border-right: 2px solid #fff;
+  letter-spacing: 2px;
+  animation: typing 6s steps(20) infinite, blink-caret 0.5s step-end infinite;
+  }
+  
+  @media (min-width: 750px) {
+  .landing .name {
+  font-size: 56px;
+  line-height: 90px;
+  font-family: Arial, sans-serif;
+  letter-spacing: 1px;
+  }
+  .landing .description {
+  font-size: 46px;
+  line-height: 80px;
+  font-family: Arial, sans-serif;
+  letter-spacing: 1px;
   }
   
   .landing .socialIcons {
-    display: none;
+  display: none;
   }
-}
+  }
 
 @keyframes typing {
   from { width: 0 }

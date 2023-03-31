@@ -235,10 +235,11 @@ header {
 
 footer {
   position: relative;  
-  left: 25;
-  right: 25;
+  left: 35;
+  right: 35;
   bottom: 0;  
-  height: 100px;  
+  height: 100px; 
+  font-size: 18px; 
   display: flex; 
   justify-content: center;
   align-items: center;
