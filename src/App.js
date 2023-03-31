@@ -54,7 +54,7 @@ function App() {
     brand:
   <strong>
     I am innovative and entrepreneurial, well-structured and willing to listen. I believe in teamwork, informal networks, open innovation, and the adoption of a pervasive growth mindset framework as essential assets to run high performance IT organizations.
-     I am proficient with: <span style={{color: 'purple'}}><br /> HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | React | SQL | Python</span>
+     I am proficient at: <span style={{color: 'purple'}}><br /> HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | Mongoose | React | SQL | Python</span>
   </strong>,
 
     funFact: fact,
