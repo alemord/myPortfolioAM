@@ -37,7 +37,7 @@
     "description": " This project.",
     "github": "https://github.com/alemord?tab=repositories",
     "deployed": "https://codesandbox.io/s/istocks-myapp-jpxg55?file=/src/styles.css",
-    "bgcolor": "#C5BAB8",
+    "bgcolor": "#191970",
     "id": "2"
   },
   {
@@ -46,6 +46,7 @@
     "technologies": "JS | Bootstrap",
     "description": "An intuitive cryptos monitoring App",
     "github": "https://github.com/alemord?tab=repositories",
+    "deployed":"",
     "bgcolor": "#B80EE7",
     "id": "3"
   },
@@ -58,6 +59,7 @@
     "technologies": "JS | React",
     "description": "To Do App CRUD",
     "github": "https://github.com/alemord/to_do_CRUD",
+    "deployed": "https://chic-beijinho-e5e136.netlify.app/",
     "bgcolor": "#4CBD8D",
     "id": "6"
   }

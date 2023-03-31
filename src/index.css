@@ -243,3 +243,7 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+.nav-link:hover {
+  color: purple;
+}

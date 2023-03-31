@@ -3,7 +3,7 @@ import SocialIcons from "../../components/SocialIcons";
 import Form from "../../components/Form";
 import ContactInfo from "../../components/ContactInfo";
 
-const Contact = ({ name, email, location }) => {
+const Contact = ({ email, location }) => {
   return (
     <section className="contact">
       <PageHeader title="Contact me" description="Let's connect today" />
@@ -13,7 +13,9 @@ const Contact = ({ name, email, location }) => {
             <Form />
           </div>
           <div className="col-12 col-lg-6">
-            <ContactInfo name={name} location={location} email={email} />
+          <ContactInfo name="Alessandro Mordini" location={location} email={email} />
+
+           
           </div>
         </div>
       </div>
