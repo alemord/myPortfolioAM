@@ -14,11 +14,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -50,8 +45,8 @@ Oh, and don't forget to check out the random facts that pop up at the bottom of 
 
 ### Contact
 
-For any Suggestion / Ideas find me, Alessandro Mordini, at: [alessandro.mordini@gmail.com]
-
+For any Suggestion / Ideas find me, Alessandro Mordini, at: [email] (alessandro.mordini@gmail.com)
+https://mordini.netlify.app/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
