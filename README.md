@@ -45,8 +45,8 @@ Oh, and don't forget to check out the random facts that pop up at the bottom of 
 
 ### Contact
 
-For any Suggestion / Ideas find me, Alessandro Mordini, at: [email] (alessandro.mordini@gmail.com)
-https://mordini.netlify.app/
+For any Suggestion / Ideas find me, Alessandro Mordini, at: (alessandro.mordini@gmail.com)
+Deployed on Netlify: (https://mordini.netlify.app/)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
