@@ -18,6 +18,23 @@
   animation: typing 6s steps(20) infinite, blink-caret 0.5s step-end infinite;
 }
 
+@media (min-width: 750px) {
+  .landing .name  {
+    font-size: 76px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+  }
+  .landing .description  {
+    font-size: 66px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  .landing .socialIcons {
+    display: none;
+  }
+}
+
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
